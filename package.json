@@ -6,6 +6,8 @@
     "engines": {
         "vscode": "^1.47.0"
     },
+    "publisher": "ChrisRedford",
+    "repository": "https://github.com/drgrib/days-syntax",
     "categories": [
         "Programming Languages"
     ],
