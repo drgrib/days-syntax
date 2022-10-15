@@ -1,7 +1,7 @@
 {
-    "name": "days",
-    "displayName": "days",
-    "description": "days extension",
+    "name": "days-syntax",
+    "displayName": "Days Syntax",
+    "description": "Syntax highlighting for calorie tracking input file format.",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.47.0"
